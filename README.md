@@ -52,7 +52,7 @@ If you want to compile your own binaries use the following commands
 
 ## Usage
 
-Right shift opens the GUI
+Right shift opens the GUI.
 
 '.' is the default prefix, to change this go to .minecraft\Wurstplus3\configs\default\BINDS.txt and change the top line
 
